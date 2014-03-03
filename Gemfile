@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-#just a comment
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
